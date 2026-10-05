@@ -2,7 +2,7 @@ const products = [
   {
     name: 'AMIRI X WES LANG SOLAR KINGS TEE (BLACK)',
     color: 'Black', category: 'T-SHIRT / DESIGNER', size: 'L', price: 1350,
-    image: 'assets/amiri-solar-kings.jpg', alt: 'AMIRI X Wes Lang Solar Kings Tee negra, imagen de la publicación de Street Market',
+    image: 'assets/amiri-solar-kings.webp', alt: 'AMIRI X Wes Lang Solar Kings Tee negra, imagen de la publicación de Street Market',
     post: 'https://www.instagram.com/p/Dd9vVYpoNdm/'
   },
   {
@@ -14,7 +14,7 @@ const products = [
   {
     name: 'AMIRI SKEL LOW WHITE BLACK',
     color: 'White / Black', category: 'SNEAKERS / DESIGNER', size: '41 IT (8/8.5)', price: 2300,
-    image: 'assets/amiri-skell-low.jpg', alt: 'AMIRI Skel Low blancas y negras, imagen de la publicación de Street Market',
+    image: 'assets/amiri-skell-low.webp', alt: 'AMIRI Skel Low blancas y negras, imagen de la publicación de Street Market',
     post: 'https://www.instagram.com/p/DeAF8tGlZW8/'
   }
 ];
